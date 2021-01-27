@@ -6,8 +6,6 @@ package com.mishra.shorturlapi.entity;
 import java.util.Date;
 import javax.persistence.*;
 
-import org.springframework.web.jsf.FacesContextUtils;
-
 /**
  * @author vishal
  *
